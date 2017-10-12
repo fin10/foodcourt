@@ -1,0 +1,21 @@
+{
+  "name": "food-court",
+  "version": "0.1.0",
+  "description": "none",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fin10/foodcourt.git"
+  },
+  "license": "Apache-2.0",
+  "author": {
+    "name": "Changyong Jeon",
+    "email": "fender64@gmail.com"
+  },
+  "dependencies": {
+    "express": "",
+    "iconv-lite": "",
+    "cheerio": "",
+    "request": ""
+  }
+}
